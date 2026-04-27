@@ -1,4 +1,4 @@
-# 💬 **Chatterly | Full-Stack Real-Time Chat Application**
+# 💬 **Chatterly | Full-Stack Real-Time Chat Application.**
 
 **Chatterly** is a production-ready, full-stack real-time chat platform built with the **MERN stack (MongoDB, Express, React, Node.js)**.
 
