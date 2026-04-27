@@ -1,8 +1,8 @@
-# 💬 **Chatify | Full-Stack Real-Time Chat Application**
+# 💬 **Chatterly | Full-Stack Real-Time Chat Application**
 
-**Chatify** is a production-ready, full-stack real-time chat platform built with the **MERN stack (MongoDB, Express, React, Node.js)**.
+**Chatterly** is a production-ready, full-stack real-time chat platform built with the **MERN stack (MongoDB, Express, React, Node.js)**.
 
-Unlike many beginner projects, Chatify avoids third-party Backend-as-a-Service tools for core functionality. Instead, it implements a **custom Socket.io server** for real-time communication and a **secure JWT-based authentication system**.
+Unlike many beginner projects, Chatterly avoids third-party Backend-as-a-Service tools for core functionality. Instead, it implements a **custom Socket.io server** for real-time communication and a **secure JWT-based authentication system**.
 
 ---
 
