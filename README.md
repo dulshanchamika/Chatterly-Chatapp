@@ -57,8 +57,8 @@ Unlike many beginner projects, Chatterly avoids third-party Backend-as-a-Service
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/chatify.git
-cd chatify
+git clone https://github.com/your-username/chatterly.git
+cd chatterly
 ```
 
 ### 2️⃣ Install dependencies (root)
@@ -92,7 +92,7 @@ ARCJET_ENV=your_arcjet_environment
 # Email Service (Resend)
 RESEND_API_KEY=your_resend_api_key
 EMAIL_FROM=no-reply@yourdomain.com
-EMAIL_FROM_NAME=Chatify
+EMAIL_FROM_NAME=chatterly
 ```
 
 ### 4️⃣ Run the application
@@ -104,7 +104,7 @@ npm run dev
 
 ## 🌐 **Deployment**
 
-Chatify is configured for deployment on any **VPS or platform supporting WebSockets**.
+Chatterly is configured for deployment on any **VPS or platform supporting WebSockets**.
 
 ### 🚀 In Production
 
@@ -124,9 +124,9 @@ Chatify is configured for deployment on any **VPS or platform supporting WebSock
 
 ---
 
-## 💡 **Why Chatify?**
+## 💡 **Why Chatterly?**
 
-Chatify is designed to demonstrate:
+Chatterly is designed to demonstrate:
 
 - Real-world **WebSocket architecture**
 - Secure **authentication workflows**
